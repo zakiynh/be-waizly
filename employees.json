@@ -1,0 +1,30 @@
+[
+    {
+        "name": "John Smith",
+        "job_title": "Manager",
+        "salary": 60000,
+        "department": "Sales",
+        "joined_date": "2022-01-15"
+    },
+    {
+        "name": "Raj Reddy",
+        "job_title": "Developer",
+        "salary": 45000,
+        "department": "IT",
+        "joined_date": "2021-01-15"
+    },
+    {
+        "name": "Jason Bourne",
+        "job_title": "Security",
+        "salary": 70000,
+        "department": "HR",
+        "joined_date": "2020-01-15"
+    },
+    {
+        "name": "Jane Doe",
+        "job_title": "Designer",
+        "salary": 50000,
+        "department": "Marketing",
+        "joined_date": "2019-01-15"
+    }
+]
